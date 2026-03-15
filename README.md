@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
