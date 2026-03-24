@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [2906-construct-product-matrix](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [2906-construct-product-matrix](https://github.com/Chandan9574/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
